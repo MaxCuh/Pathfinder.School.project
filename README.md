@@ -1,17 +1,19 @@
-# Pathfinder.School.project
-This Project was a group project consisting of 4 people in a group. ''bedriftsprosjekt" -VG1 IM
+Dette prosjektet var et gruppeprosjekt bestående av 4 personer i en gruppe.
+‘‘Bedriftsprosjekt’’ – VG1 IM
 
 About Pathfinder
 
-Pathfinder is a coding AI partner that is used as a coding tool for all levels, from beginner to advanced.
-Pathfinder is a fully functional website that uses "deepseek" AI to allow users to ask anything whether code related or not.
-On top of that Pathfinder is an amazing recourse website that gives you URL links to other websites to allow you to learn many different concepts and coding languages.
+Pathfinder er en kode-AI-partner som brukes som et programmeringsverktøy for alle nivåer, fra nybegynner til avansert. Pathfinder er en fullt funksjonell nettside som bruker “deepseek”-AI for å la brukere spørre om hva som helst, enten det er kode-relatert eller ikke.
 
-Prosjektet var en del av VG1 IM (informasjonsteknologi og medieproduksjon) oppgave / prosjekt som telles stort for vurderingen din.
+I tillegg er Pathfinder en fantastisk ressursnettside som gir deg URL-lenker til andre nettsider for å lære mange ulike konsepter og programmeringsspråk.
+
+Prosjektet var en del av VG1 IM (informasjonsteknologi og medieproduksjon) oppgave / prosjekt som teller mye for vurderingen din.
+
 Gruppemedlemmer:
 -Max (meg)
 -Darin
 -Artem
 -Dmytro
+
 
 
