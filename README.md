@@ -26,4 +26,6 @@ Prosjektet er laget ved bruk av:
 ## Prosjektinformasjon
 Dette prosjektet ble utviklet som en del av VG1 IM og hadde som mål å kombinere webutvikling, samarbeid og forståelse av moderne AI-verktøy i praksis.
 
+<img width="2250" height="1402" alt="image" src="https://github.com/user-attachments/assets/725f3267-2711-4505-945c-f98638a69c7c" />
+
 
