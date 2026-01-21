@@ -1,19 +1,29 @@
-Dette prosjektet var et gruppeprosjekt bestående av 4 personer i en gruppe.
-‘‘Bedriftsprosjekt’’ – VG1 IM
+# Pathfinder
 
-About Pathfinder
+Dette prosjektet var et gruppeprosjekt bestående av fire personer og ble gjennomført som en del av faget VG1 IM (Informasjonsteknologi og medieproduksjon). Prosjektet var et bedriftsprosjekt og teller som en viktig del av vurderingsgrunnlaget.
 
-Pathfinder er en kode-AI-partner som brukes som et programmeringsverktøy for alle nivåer, fra nybegynner til avansert. Pathfinder er en fullt funksjonell nettside som bruker “deepseek”-AI for å la brukere spørre om hva som helst, enten det er kode-relatert eller ikke.
+## Om Pathfinder
+Pathfinder er en kode-AI-partner laget for å fungere som et programmeringsverktøy for brukere på alle nivåer, fra nybegynnere til mer avanserte brukere. Nettsiden lar brukere stille spørsmål om programmering, teknologi og andre temaer.
 
-I tillegg er Pathfinder en fantastisk ressursnettside som gir deg URL-lenker til andre nettsider for å lære mange ulike konsepter og programmeringsspråk.
+Pathfinder er en fullt funksjonell nettside som benytter DeepSeek-AI for å generere svar basert på brukerens spørsmål.
 
-Prosjektet var en del av VG1 IM (informasjonsteknologi og medieproduksjon) oppgave / prosjekt som teller mye for vurderingen din.
+## Funksjonalitet
+Nettsiden gir brukere mulighet til å:
+- stille spørsmål til en AI
+- få hjelp med kode og programmeringsrelaterte problemer
+- få generell informasjon om ulike teknologiske temaer
 
-Gruppemedlemmer:
--Max (meg)
--Darin
--Artem
--Dmytro
+I tillegg fungerer Pathfinder som en ressursside ved å tilby URL-lenker til eksterne nettsider som kan hjelpe brukere med å lære programmering, konsepter og ulike programmeringsspråk.
 
+## Teknologi brukt
+Prosjektet er laget ved bruk av:
+- HTML
+- CSS
+- JavaScript
+- AI-integrasjon (DeepSeek)
+- Git og GitHub
+
+## Prosjektinformasjon
+Dette prosjektet ble utviklet som en del av VG1 IM og hadde som mål å kombinere webutvikling, samarbeid og forståelse av moderne AI-verktøy i praksis.
 
 
